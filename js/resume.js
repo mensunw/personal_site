@@ -1,3 +1,4 @@
+/*
 (function ($) {
   "use strict"; // Start of use strict
 
@@ -26,6 +27,7 @@
   });
 
 })(jQuery); // End of use strict
+*/
 
 new TypeIt(".typing-text", {
   strings: ["I love to learn...", "...through taking on challenges."],
